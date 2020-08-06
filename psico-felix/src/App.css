@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color: aqua;
+
 }
 
 .App-logo {
@@ -36,7 +36,18 @@
   to {
     transform: rotate(360deg);
   }
+};
+table{
+background-color: lightcoral;
+position:relative;
+
 }
-.table{
-background-color: hotpink;
+.h1{
+  position: relative;
+  
+  
+}
+body{
+  background-color: aqua;
+
 }
